@@ -71,7 +71,7 @@ public class Main {
                     }
                     break;
                 case 8:
-                    // Código para buscar un nodo en la lista (aún no implementado).
+                    list.buscarListaS();
                     break;
                 case 9:
                     // Muestra la lista actual.
